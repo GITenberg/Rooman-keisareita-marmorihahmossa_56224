@@ -1,0 +1,35 @@
+_repo: Rooman-keisareita-marmorihahmossa_56224
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kouta, Aarni
+    alias: Candolin, Arnold
+    birthdate: 1884
+    deathdate: 1924
+    gutenberg_agent_id: '7932'
+    url: http://www.gutenberg.org/2009/agents/7932
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, Abraham Viktor
+    - Rydberg, Victor
+    - Rydberg, V. (Viktor)
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2017-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56224'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rooman keisareita marmorihahmossa
+url: http://www.gutenberg.org/ebooks/56224
