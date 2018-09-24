@@ -8,6 +8,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '7932'
     url: http://www.gutenberg.org/2009/agents/7932
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rydberg, Viktor
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3156
     wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56224#Rooman-keisareita-marmorihahmossa
 gutenberg_issued: '2017-12-22'
 gutenberg_type: Text
 identifiers:
